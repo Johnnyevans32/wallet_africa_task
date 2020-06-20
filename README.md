@@ -1,1 +1,1 @@
-# wallet_africa_task
+# wallet_africa
