@@ -13,7 +13,7 @@ cycler==0.10.0
 Django==3.0.7
 django-kitsune==0.2.1
 django-registration==1.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 drf-yasg==1.17.1
 Flask==1.0.2
 h5py==2.10.0
