@@ -38,7 +38,7 @@ opencv-python==4.2.0.34
 packaging==20.4
 Pillow==7.1.2
 pluggy==0.13.1
-py==1.8.1
+py==1.10.0
 pygame==1.9.6
 pyparsing==2.4.7
 pyPdf==1.13
